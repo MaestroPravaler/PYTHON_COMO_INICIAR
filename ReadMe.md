@@ -12,6 +12,13 @@ Operadores Matemáticos.
 2. Situação Problema (Elementar)
 
 ### Exercícios 02
-Operadores Lógicos, Relacionais e Condicionais. (Emprego do if / elif / else)
+* Operadores Lógicos (and / &) (or / |) (not)
+* Relacionais ( > maior) (< menor) (>= maior ou igual) (<= menor ou igual) (== igual) (!= diferente)
+* Condicionais. (Emprego do if / elif / else)
+1. Situação problema 01
+2. Situação problema 02
+
+### Exercícios 03
+* Extruturas de repetição (for | while)
 1. Situação problema 01
 2. Situação problema 02

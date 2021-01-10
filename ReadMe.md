@@ -22,3 +22,10 @@ Operadores Matemáticos.
 * Extruturas de repetição (for | while)
 1. Situação problema 01
 2. Situação problema 02
+
+### Exercícios 04
+* Tuplas, Listas, Dicionários e Conjuntos, Matrizes.
+* Utilização da Biblioteca numpy
+1. Situação problema 01 (Listas)
+2. Situação problema 02 (Dicionário)
+3. Situaçao problema 03 (Matriz)

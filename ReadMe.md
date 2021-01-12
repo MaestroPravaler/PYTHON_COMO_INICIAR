@@ -35,6 +35,10 @@ Operadores Matemáticos.
 1. Situação problema 01
 2. Situação problema 02
 
+## Exercícios 06
+* Criação de Módulos Personalizados no Python
+1. Situação problema 01
+
 ## AGRADECIMENTOS ESPECIAIS
 Toda a equipe do [IA Expert Academy](https://iaexpert.academy/)
 

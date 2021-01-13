@@ -51,6 +51,10 @@ Operadores Matemáticos.
 * Utilizando Expressões Regulares
 1. Situação problema 01
 
+## Exercícios 10
+* Orientação a Objetos (Classes e Objetos)
+1. Situação problema 01
+
 ## AGRADECIMENTOS ESPECIAIS
 Toda a equipe do [IA Expert Academy](https://iaexpert.academy/)
 

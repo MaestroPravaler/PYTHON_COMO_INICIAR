@@ -1,0 +1,3 @@
+Ananias,6.0
+Juliano,7.0
+Pedro Augusto,7.5

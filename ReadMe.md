@@ -47,6 +47,10 @@ Operadores Matemáticos.
 * Manipulação de Arquivos de texto com python
 1. Situação problema 01
 
+## Exercícios 09
+* Utilizando Expressões Regulares
+1. Situação problema 01
+
 ## AGRADECIMENTOS ESPECIAIS
 Toda a equipe do [IA Expert Academy](https://iaexpert.academy/)
 

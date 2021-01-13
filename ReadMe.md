@@ -43,6 +43,10 @@ Operadores Matemáticos.
 * Tratamento de erros
 1. Situação problema 01
 
+## Exercícios 08
+* Manipulação de Arquivos de texto com python
+1. Situação problema 01
+
 ## AGRADECIMENTOS ESPECIAIS
 Toda a equipe do [IA Expert Academy](https://iaexpert.academy/)
 
